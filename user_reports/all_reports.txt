@@ -1,0 +1,715 @@
+
+==================== User Report ====================
+Date: 2024-11-30 13:27:27
+Predicted Disease: Chicken pox
+
+Symptoms Provided by User:
+itching, skin_rash, fatigue, high_fever, headache
+
+Confirmed Symptoms:
+itching, loss_of_appetite, nodal_skin_eruptions, fatigue, mild_fever, skin_rash, swelled_lymph_nodes, red_spots_over_body, lethargy, high_fever, malaise, headache
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-11-30 13:41:29
+Predicted Disease: Dengue
+
+Symptoms Provided by User:
+skin_rash, chills, joint_pain, vomiting, fatigue, high_fever
+
+Confirmed Symptoms:
+fatigue, red_spots_over_body, loss_of_appetite, blister, vomiting, skin_rash, headache, joint_pain, red_sore_around_nose, muscle_pain, nausea, back_pain, high_fever, chills, pain_behind_the_eyes, malaise
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-01 14:28:14
+Predicted Disease: Typhoid
+
+Symptoms Provided by User:
+chills, vomiting, fatigue, high_fever, headache, constipation
+
+Confirmed Symptoms:
+high_fever, vomiting, toxic_look_(typhos), abdominal_pain, headache, fatigue, muscle_pain, belly_pain, sweating, constipation, chills
+
+Non-Confirmed Symptoms:
+nausea, diarrhoea
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-01 14:33:03
+Predicted Disease: Paralysis (brain hemorrhage)
+
+Symptoms Provided by User:
+vomiting, fatigue, high_fever, headache, constipation
+
+Confirmed Symptoms:
+, belly_pain, fatigue, diarrhoea, nausea, altered_sensorium, vomiting, toxic_look_(typhos), constipation, headache, abdominal_pain, chills, weakness_of_one_body_side, high_fever
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-01 15:11:16
+Predicted Disease: Jaundice
+
+Symptoms Provided by User:
+fatigue, yellowish_skin
+
+Confirmed Symptoms:
+weight_loss, yellowing_of_eyes, vomiting, dark_urine, loss_of_appetite, itching, abdominal_pain, yellowish_skin, high_fever, fatigue, family_history
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-01 15:18:45
+Predicted Disease: Hypothyroidism
+
+Symptoms Provided by User:
+weight_gain, mood_swings
+
+Confirmed Symptoms:
+swollen_extremeties, mood_swings, weight_gain, diarrhoea, excessive_hunger, lethargy, muscle_weakness, cold_hands_and_feets, weight_loss, enlarged_thyroid, depression, puffy_face_and_eyes, fast_heart_rate, sweating, brittle_nails, dizziness
+
+Non-Confirmed Symptoms:
+fatigue, abnormal_menstruation, irritability
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 15:02:41
+User Input: today i have askin_rash, high_fever, red_sore_around_nose
+Result: Sympt�mes d�tect�s : high_fever
+Sympt�mes non reconnus : today_i_have_askin_rash, red_sore_around_nose
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 15:05:00
+Predicted Disease: Impetigo
+
+Symptoms Provided by User:
+skin_rash, high_fever
+
+Confirmed Symptoms:
+blister, skin_rash, yellow_crust_ooze, red_sore_around_nose, high_fever, itching
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 15:58:44
+Predicted Disease: Chronic cholestasis
+
+Symptoms Provided by User:
+itching, vomiting, yellowish_skin
+
+Confirmed Symptoms:
+yellowish_skin, loss_of_appetite, itching, vomiting, abdominal_pain, yellowing_of_eyes, nausea
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 16:05:49
+Predicted Disease: Diabetes 
+
+Symptoms Provided by User:
+fatigue, weight_loss
+
+Confirmed Symptoms:
+increased_appetite, weight_loss, fatigue, blurred_and_distorted_vision, lethargy, irregular_sugar_level, polyuria, restlessness, obesity, excessive_hunger
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 16:14:20
+Predicted Disease: Jaundice
+
+Symptoms Provided by User:
+fatigue, weight_loss,  restlessness,  irregular_sugar_level,  blurred_and_distorted_vision
+
+Confirmed Symptoms:
+ blurred_and_distorted_vision,  restlessness, weight_loss, fatigue,  irregular_sugar_level
+
+Non-Confirmed Symptoms (by user response):
+high_fever, yellowish_skin, vomiting, itching, abdominal_pain, dark_urine
+
+Symptoms Belonging to Disease but Not Confirmed:
+high_fever, yellowish_skin, vomiting, itching, abdominal_pain, dark_urine
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 16:28:04
+Predicted Disease: Jaundice
+
+Symptoms Provided by User:
+fatigue, weight_loss,  restlessness,  irregular_sugar_level,  blurred_and_distorted_vision
+
+Confirmed
+Symptoms:
+ blurred_and_distorted_vision, weight_loss,  irregular_sugar_level,  excessive_hunger, fatigue, here_are_the_extracted_symptoms:
+
+obesity,  restlessness
+
+Non-Confirmed Symptoms (by user response):
+itching, high_fever, abdominal_pain, yellowish_skin, vomiting
+
+Symptoms Belonging to Disease but Not Confirmed:
+dark_urine, itching, high_fever, abdominal_pain, yellowish_skin, vomiting
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 16:35:29
+Predicted Disease: Diabetes 
+
+Symptoms Provided by User:
+fatigue, weight_loss
+
+Confirmed Symptoms:
+polyuria, blurred_and_distorted_vision, lethargy, irregular_sugar_level, obesity, excessive_hunger, fatigue, increased_appetite, weight_loss
+
+Non-Confirmed Symptoms:
+restlessness
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 16:49:44
+Predicted Disease: Diabetes 
+
+Symptoms Provided by User:
+fatigue, weight_loss
+
+Confirmed Symptoms:
+excessive_hunger, blurred_and_distorted_vision, irregular_sugar_level, increased_appetite, polyuria, obesity, weight_loss, fatigue, lethargy
+
+Non-Confirmed Symptoms:
+restlessness
+
+Invalid Symptoms (Not Recognized):
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:15:22
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache
+
+Confirmed Symptoms:
+, excessive_hunger, headache, acidity, blurred_and_distorted_vision, indigestion, depression, stiff_neck
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+visual_disturbances, irritability
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:17:58
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache
+
+Confirmed Symptoms:
+, excessive_hunger, acidity, indigestion, headache, stiff_neck, blurred_and_distorted_vision, visual_disturbances, irritability, depression
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:21:05
+Predicted Disease: Dengue
+
+Symptoms Provided by User:
+skin_rash, chills, joint_pain, vomiting, fatigue, headache
+
+Confirmed Symptoms:
+vomiting, headache, back_pain, fatigue, joint_pain, loss_of_appetite, red_spots_over_body, chills, high_fever, skin_rash, pain_behind_the_eyes, malaise, nausea, muscle_pain
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:29:19
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+chills, fatigue, high_fever, headache
+
+Confirmed Symptoms:
+chills, fatigue, muscle_pain, headache, high_fever
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+vomiting, diarrhoea, sweating, nausea
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:36:32
+Predicted Disease: Allergy
+
+Symptoms Provided by User:
+continuous_sneezing, chills, fatigue, high_fever, headache
+
+Confirmed Symptoms:
+headache, chills, fatigue, high_fever, continuous_sneezing
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+shivering, watering_from_eyes
+
+Ignored Symptoms (Not Recognized):
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 17:52:27
+Predicted Disease: Bronchial Asthma
+
+Symptoms Provided by User:
+fatigue, cough, breathlessness
+
+Confirmed Symptoms:
+fatigue, breathlessness, family_history, high_fever, cough
+
+Non-Confirmed Symptoms:
+
+
+Infirmed Symptoms:
+mucoid_sputum
+
+Ignored Symptoms (Not Recognized):
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-02 18:36:16
+Predicted Disease: Typhoid
+
+Symptoms Provided by User:
+chills, vomiting, high_fever
+
+Confirmed Symptoms:
+abdominal_pain, belly_pain, constipation, sweating, fatigue, chills, muscle_pain, high_fever, toxic_look_(typhos), vomiting
+
+Non-Confirmed Symptoms:
+nausea, diarrhoea, headache
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 07:39:27
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+chills, vomiting, high_fever
+
+Confirmed Symptoms:
+muscle_pain, sweating, headache, chills, high_fever, vomiting, nausea, diarrhoea
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 07:45:59
+Predicted Disease: Chicken pox
+
+Symptoms Provided by User:
+itching, fatigue, high_fever, headache
+
+Confirmed Symptoms:
+mild_fever, headache, itching, red_spots_over_body, swelled_lymph_nodes, high_fever, fatigue
+
+Non-Confirmed Symptoms:
+malaise, loss_of_appetite, skin_rash, lethargy
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 07:50:17
+Predicted Disease: Dengue
+
+Symptoms Provided by User:
+skin_rash, chills, joint_pain, vomiting, fatigue, high_fever, headache
+
+Confirmed Symptoms:
+loss_of_appetite, high_fever, pain_behind_the_eyes, red_spots_over_body, headache, back_pain, fatigue, malaise, chills, vomiting, skin_rash, joint_pain
+
+Non-Confirmed Symptoms:
+muscle_pain, nausea
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 07:54:50
+Predicted Disease: Alcoholic hepatitis
+
+Symptoms Provided by User:
+vomiting, yellowish_skin
+
+Confirmed Symptoms:
+yellowish_skin, swelling_of_stomach, distention_of_abdomen, history_of_alcohol_consumption, fluid_overload, vomiting
+
+Non-Confirmed Symptoms:
+abdominal_pain
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 07:59:28
+Predicted Disease: (vertigo) Paroymsal  Positional Vertigo
+
+Symptoms Provided by User:
+vomiting, headache
+
+Confirmed Symptoms:
+unsteadiness, , spinning_movements, headache, nausea, vomiting, loss_of_balance
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:04:31
+Predicted Disease: Urinary tract infection
+
+Symptoms Provided by User:
+bladder_discomfort
+
+Confirmed Symptoms:
+bladder_discomfort
+
+Non-Confirmed Symptoms:
+continuous_feel_of_urine, burning_micturition, foul_smell_of_urine
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:06:18
+Predicted Disease: Psoriasis
+
+Symptoms Provided by User:
+skin_rash, joint_pain
+
+Confirmed Symptoms:
+skin_rash, joint_pain, inflammatory_nails, small_dents_in_nails, skin_peeling, silver_like_dusting
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:13:13
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+, excessive_hunger, blurred_and_distorted_vision, acidity, headache, stiff_neck, depression, indigestion, irritability, visual_disturbances
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:15:43
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+acidity, indigestion, stiff_neck, headache
+
+Non-Confirmed Symptoms:
+, irritability, excessive_hunger, visual_disturbances, depression, blurred_and_distorted_vision
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:19:43
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+indigestion, stiff_neck, headache, acidity
+
+Non-Confirmed Symptoms:
+, blurred_and_distorted_vision, irritability, excessive_hunger, depression, visual_disturbances
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:24:27
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+, stiff_neck, headache, irritability, blurred_and_distorted_vision, indigestion, acidity, visual_disturbances, depression, excessive_hunger
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:27:23
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+stiff_neck, headache, indigestion, acidity
+
+Non-Confirmed Symptoms:
+, irritability, excessive_hunger, blurred_and_distorted_vision, depression, visual_disturbances
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:30:07
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+headache, acidity, stiff_neck, indigestion
+
+Non-Confirmed Symptoms:
+, excessive_hunger, visual_disturbances, irritability, blurred_and_distorted_vision, depression
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:34:03
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+stiff_neck, acidity, indigestion, headache
+
+Non-Confirmed Symptoms:
+, excessive_hunger, irritability, depression, blurred_and_distorted_vision, visual_disturbances
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:36:34
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+headache, indigestion, acidity, stiff_neck
+
+Non-Confirmed Symptoms:
+, excessive_hunger, visual_disturbances, blurred_and_distorted_vision, depression, irritability
+
+Rejected Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:38:21
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+, visual_disturbances, irritability, blurred_and_distorted_vision, indigestion, headache, excessive_hunger, stiff_neck, acidity, depression
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:40:41
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+chills, high_fever, headache
+
+Confirmed Symptoms:
+sweating, vomiting, chills, high_fever, headache, muscle_pain, nausea, diarrhoea
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:48:46
+Predicted Disease: Migraine
+
+Symptoms Provided by User:
+acidity, indigestion, headache, stiff_neck
+
+Confirmed Symptoms:
+, acidity, excessive_hunger, headache, visual_disturbances, depression, blurred_and_distorted_vision, indigestion, stiff_neck, irritability
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 08:57:10
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+vomiting, high_fever, headache
+
+Confirmed Symptoms:
+, headache, vomiting, nausea, diarrhoea, muscle_pain, sweating, chills, high_fever
+
+Non-Confirmed Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 09:07:36
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+vomiting, high_fever, headache
+
+Confirmed Symptoms:
+nausea, chills, diarrhoea, vomiting, headache, high_fever, muscle_pain
+
+Non-Confirmed Symptoms:
+sweating
+
+Rejected Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 09:10:33
+Predicted Disease: Malaria
+
+Symptoms Provided by User:
+vomiting, high_fever, headache
+
+Confirmed Symptoms:
+, high_fever, vomiting, diarrhoea, muscle_pain, chills, nausea, headache
+
+Non-Confirmed Symptoms:
+sweating
+
+Rejected Symptoms:
+
+
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 09:26:12
+
+Action de l'utilisateur :
+- Sympt�mes fournis : vomiting, high_fever, headache
+- Sympt�mes confirm�s : , diarrhoea, muscle_pain, nausea, headache, vomiting, chills, high_fever
+- Sympt�mes non confirm�s : sweating
+- Sympt�mes rejet�s : 
+
+Maladie pr�dite : Malaria
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 09:30:14
+
+User Actions:
+- Provided Symptoms: vomiting, high_fever, headache
+- Confirmed Symptoms: , muscle_pain, high_fever, chills, diarrhoea, headache, vomiting, nausea
+- Non-Confirmed Symptoms: sweating
+- Rejected Symptoms: 
+
+Predicted Disease: Malaria
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 13:49:16
+
+User Actions:
+- Provided Symptoms: vomiting, high_fever, headache
+- Confirmed Symptoms: , high_fever, nausea, diarrhoea, headache, chills, vomiting
+- Non-Confirmed Symptoms: muscle_pain, sweating
+- Rejected Symptoms: 
+
+Predicted Disease: Malaria
+=====================================================
+
+==================== User Report ====================
+Date: 2024-12-03 16:41:01
+
+User Actions:
+- Provided Symptoms: itching, skin_rash, fatigue
+- Confirmed Symptoms: skin_rash, fatigue, nodal_skin_eruptions, stomach_pain, itching, burning_micturition
+- Non-Confirmed Symptoms: spotting__urination
+- Rejected Symptoms: 
+
+Predicted Disease: Drug Reaction
+=====================================================
