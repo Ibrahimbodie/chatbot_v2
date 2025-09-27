@@ -5,3 +5,5 @@ X_train.pkl
 y_test.pkl
 y_train.pkl
 label_encoder.pkl
+env
+__pycache__/
