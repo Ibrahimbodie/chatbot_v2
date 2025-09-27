@@ -42,7 +42,7 @@ def normalize_symptom(symptom):
 # Fonction pour extraire les symptômes du message utilisateur
 def extract_symptoms_from_message(message):
     prompt = f"Extract the symptoms mentioned in the message exactly as they appear, without rephrasing. Separate each symptom with a comma. Message: '{message}'"
-    result = subprocess.run(["ollama", "run", "llama3.2", prompt], capture_output=True, text=True, encoding='utf-8')
+    result = subprocess.run(["ollama", "run", "deepseek-r1:8b", prompt], capture_output=True, text=True, encoding='utf-8')
     response = result.stdout.strip()
     
     # Supprimer les textes inutiles
